@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <bool name="enable_magnifier_when_input">true</bool>
+    <bool name="is_dolby_supported">true</bool>
+    <bool name="config_enableUsbModeSelection">true</bool>
+</resources>
